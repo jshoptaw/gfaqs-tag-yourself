@@ -2,6 +2,8 @@ GameFAQs Tag Yourself
 ======================================
 Adds the ability to tag yourself on your User Info page on the GameFAQs message boards.
 
+## THIS SCRIPT HAS BEEN DISCONTINUED AS OF 2015-09-29 AND WILL NO LONGER BE DEVELOPED ##
+
 Use with one of the following browser extensions:
 
 ### Mozilla Firefox ###
